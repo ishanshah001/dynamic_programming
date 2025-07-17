@@ -8,3 +8,5 @@ def uniquePaths(m, n):
 
 print(uniquePaths(7,3))
 print(uniquePaths(3, 7))
+
+# pascal triangle. binomial
